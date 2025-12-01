@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+demo_output.json
+debug_log.txt
+.DS_Store
+.vscode/
